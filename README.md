@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Passionate Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+%E2%9D%A4%EF%B8%8F+coding+and+learning+new+things." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;.coding+and+learning+new+things." alt="Typing SVG" />
 </p>
 
 ---
