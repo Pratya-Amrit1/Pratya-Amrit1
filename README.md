@@ -10,7 +10,7 @@
 
 ## 🌱 Currently Learning
 
-- .NET
+- Data Structure & Algorithm
 - DevOps
 - Backend development
 
