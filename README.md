@@ -17,6 +17,8 @@
 ## 💬 Ask Me About
 
 - React
+- DSA
+- JAVA
 
 ## 📫 How to Reach Me
 
