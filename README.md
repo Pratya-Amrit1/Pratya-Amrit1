@@ -25,6 +25,7 @@
 ## ⚡ Fun Fact
 
 - I don't have a particular hobby! 😄
+- I like playing games
 
 ---
 
