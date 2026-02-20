@@ -11,7 +11,7 @@
 ## 🌱 Currently Learning
 
 - Data Structure & Algorithm
-- DevOps
+- RAG
 - Backend development
 
 ## 💬 Ask Me About
