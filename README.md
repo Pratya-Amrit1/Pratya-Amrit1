@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Pratya%20Amrit&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Builder&descAlignY=56&descColor=c8f5e8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Pratya%20Amrit&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Passionate+about+Data+Structures+%26+Algorithms;Building+scalable+systems+from+India+%F0%9F%87%AE%F0%9F%87%B3;Currently+exploring+RAG+%26+Backend+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Build+things+that+matter.;Code+with+purpose.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -68,13 +68,13 @@ public class PratyaAmrit extends Developer {
   <tr>
     <td width="50%" valign="top">
       <h3>📸 <a href="https://github.com/Pratya-Amrit1/AZER-image-processor">AZER Image Processor</a></h3>
-      <p>Professional image editing desktop app built with <strong>C# & WPF</strong>. Features real-time filters, camera capture, and a 20-state undo/redo history with <strong>10–100× faster</strong> processing than standard algorithms.</p>
+      <p>Professional image editing desktop app built with <strong>C# & WPF</strong>. Features real-time filters, camera capture, and a 20-state undo/redo history with <strong>10–100× faster</strong> processing.</p>
       <img src="https://img.shields.io/badge/C%23-100%25-239120?style=flat-square"/>
       <img src="https://img.shields.io/github/stars/Pratya-Amrit1/AZER-image-processor?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
       <h3>🦉 <a href="https://github.com/Pratya-Amrit1/owlops-web">OwlOps Web</a></h3>
-      <p>Privacy-first, self-hosted <strong>uptime monitoring</strong> dashboard built with <strong>Next.js & TypeScript</strong>. Real-time SSE streaming, live latency charts, and a browser-based playground. Deployed on Vercel.</p>
+      <p>Privacy-first, self-hosted <strong>uptime monitoring</strong> dashboard built with <strong>Next.js & TypeScript</strong>. Real-time SSE streaming, live latency charts, and a browser-based terminal.</p>
       <img src="https://img.shields.io/badge/TypeScript-97.5%25-3178C6?style=flat-square"/>
     </td>
   </tr>
@@ -111,8 +111,9 @@ public class PratyaAmrit extends Developer {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Pratya-Amrit1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratya-Amrit1&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pratya-Amrit1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratya-Amrit1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
