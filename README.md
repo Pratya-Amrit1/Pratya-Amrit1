@@ -1,18 +1,20 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Pratya%20Amrit&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0B6E52&height=220&section=header&text=Pratya%20Amrit&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Product%20Builder%20%7C%20DSA%20Enthusiast&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Build+things+that+matter.;Code+with+purpose.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;I+build+full-stack+AI+products+that+ship.;Currently+deep+in+DSA+%2B+System+Design.;Open+to+SDE+%2F+AI+Engineer+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Profile badges -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-pratya__amrit-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/pratya_amrit/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-karma__guy-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/karma_guy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pratya--amrit-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratya-amrit-28a1aa28b/)
-[![Email](https://img.shields.io/badge/Email-pratya192%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pratya192@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-pratya__amrit-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pratya_amrit/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-karma__guy-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/karma_guy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pratya--amrit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratya-amrit-28a1aa28b/)
+[![Email](https://img.shields.io/badge/Email-pratya192%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratya192@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Pratya-Amrit1&label=Profile%20Views&color=1D9E75&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -25,10 +27,12 @@ public class PratyaAmrit extends Developer {
 
     String name     = "Pratya Amrit";
     String location = "India 🇮🇳";
-    String focus    = "Data Structures & Algorithms";
+    String role      = "CSE Student @ Chandigarh University";
+    String focus     = "Full-Stack Development + Applied AI";
 
-    String[] currentlyLearning = { "RAG", "Backend Dev", "System Design" };
-    String[] askMeAbout        = { "DSA", "Java", "React", "Microservices" };
+    String[] currentlyBuilding = { "Dhanify — AI Finance SaaS", "OwlOps — Uptime Monitoring" };
+    String[] currentlyLearning = { "RAG", "System Design", "Scalable Backend Architecture" };
+    String[] askMeAbout        = { "DSA", "Java", "React", "Next.js", "LangGraph" };
     String   email             = "pratya192@gmail.com";
 
     String funFact() {
@@ -50,11 +54,14 @@ public class PratyaAmrit extends Developer {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks, AI & Tools**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -67,15 +74,16 @@ public class PratyaAmrit extends Developer {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📸 <a href="https://github.com/Pratya-Amrit1/AZER-image-processor">AZER Image Processor</a></h3>
-      <p>Professional image editing desktop app built with <strong>C# & WPF</strong>. Features real-time filters, camera capture, and a 20-state undo/redo history with <strong>10–100× faster</strong> processing.</p>
-      <img src="https://img.shields.io/badge/C%23-100%25-239120?style=flat-square"/>
-      <img src="https://img.shields.io/github/stars/Pratya-Amrit1/AZER-image-processor?style=flat-square"/>
+      <h3>💰 <a href="https://github.com/Pratya-Amrit1/dhanify">Dhanify</a></h3>
+      <p>AI-powered <strong>personal finance SaaS</strong> built with <strong>Next.js, LangGraph & Gemini</strong>. Tracks accounts, budgets, and recurring payments, with a conversational AI copilot grounded in <strong>pgvector</strong> memory for real-time financial insights.</p>
+      <img src="https://img.shields.io/badge/TypeScript-97.3%25-3178C6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Live-dhanify.app-1D9E75?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
       <h3>🦉 <a href="https://github.com/Pratya-Amrit1/owlops-web">OwlOps Web</a></h3>
       <p>Privacy-first, self-hosted <strong>uptime monitoring</strong> dashboard built with <strong>Next.js & TypeScript</strong>. Real-time SSE streaming, live latency charts, and a browser-based terminal.</p>
       <img src="https://img.shields.io/badge/TypeScript-97.5%25-3178C6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Docker%20Hub-karmapratya%2Fowlops--monitoring-2496ED?style=flat-square"/>
     </td>
   </tr>
   <tr>
@@ -111,14 +119,25 @@ public class PratyaAmrit extends Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pratya-Amrit1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratya-Amrit1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pratya-Amrit1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratya-Amrit1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pratya-Amrit1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratya-Amrit1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Pratya-Amrit1&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
 </div>
 
 ---
@@ -133,11 +152,11 @@ public class PratyaAmrit extends Developer {
 
 ---
 
-## 🏆 Competitive Programming
+## 🏅 Competitive Programming
 
 | Platform | Handle | Focus |
 |---|---|---|
-| 🟡 LeetCode | [pratya_amrit](https://leetcode.com/u/pratya_amrit/) | Daily problem solving |
+| 🟡 LeetCode | [pratya_amrit](https://leetcode.com/u/pratya_amrit/) | Knight rated · Daily problem solving |
 | 🔵 Codeforces | [karma_guy](https://codeforces.com/profile/karma_guy) | Competitive contests |
 
 ---
@@ -146,7 +165,7 @@ public class PratyaAmrit extends Developer {
 
 <div align="center">
 
-I'm always open to interesting projects, collaborations, or just a good conversation about DSA!
+I'm always open to interesting projects, collaborations, or just a good conversation about DSA and AI products!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratya-amrit-28a1aa28b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/pratya_amrit/)
@@ -154,12 +173,20 @@ I'm always open to interesting projects, collaborations, or just a good conversa
 
 </div>
 
+<br/>
+
+<!-- Contribution Snake Animation -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Pratya-Amrit1/Pratya-Amrit1/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%"/>
+<sub><em>(Snake animation activates once the corresponding GitHub Action workflow is set up on this profile repo)</em></sub>
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E52,100:1D9E75&height=120&section=footer" width="100%"/>
 
-<sub>💡 <em>Built with passion from India • 43 repos and counting</em></sub>
+<sub>💡 <em>Built with passion from India • Always shipping something new</em></sub>
 
 </div>
